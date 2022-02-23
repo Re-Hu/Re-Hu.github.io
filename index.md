@@ -24,7 +24,7 @@ back‐end development;
  - Created processes for automation. The process will get data from target automatically and periodically repeat
  - Independently developed a mobile program that could be entered through mobile homepage by automatically identifying WeChat, recognizing the basic information of each contact; enabled it to enter the WeChat applet to automatically search the required articles and store all the acquired information in the database
 
-## Projects
+## Project
 ### FiveTwelve     05/2020
  - Run the main program of FiveTwelve which is a sliding tile game based on 2048, with a few changes
  - Built models based on the program given by professor, which includes modules of class vec, tile and board
