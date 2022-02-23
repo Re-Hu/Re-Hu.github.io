@@ -2,6 +2,7 @@
 
  - My name is Xiaoyue Hu, you can also call me Rebecca.
  - E-mail:xiaoyueh@uoregon.edu
+ - GitHub link
 
 ## Technique skills
 
@@ -26,4 +27,3 @@ back‐end development;
 ### Interests
 
 Design (having more than 3‐year magazine and poster design experiences), Photographing
-
