@@ -2,7 +2,7 @@
 
  - My name is Xiaoyue Hu, you can also call me Rebecca.
  - E-mail:xiaoyueh@uoregon.edu
- - GitHub link
+ - [GitHub link](https://github.com/Re-Hu?tab=repositories)
 
 ## Technique skills
 
