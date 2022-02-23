@@ -26,4 +26,3 @@ back‐end development;
 ### Interests
 
 Design (having more than 3‐year magazine and poster design experiences), Photographing
-
