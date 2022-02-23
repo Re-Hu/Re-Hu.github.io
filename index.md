@@ -1,7 +1,7 @@
 # Welcome to Rebecca's website
 
-My name is Xiaoyue Hu, you can also call me Rebecca.
-E-mail:xiaoyueh@uoregon.edu
+ - My name is Xiaoyue Hu, you can also call me Rebecca.
+ - E-mail:xiaoyueh@uoregon.edu
 
 ## Technique skills
 
