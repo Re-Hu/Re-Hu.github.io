@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Welcome to Rebecca's website
 
-You can use the [editor on GitHub](https://github.com/Re-Hu/Re-Hu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Xiaoyue Hu, you can also call me Rebecca.
+E-mail:xiaoyueh@uoregon.edu
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Technique skills
 
-### Markdown
+Python(2 and half years)，C (1 and half year)，C++ (1 year), Linux (1 year), MySql (half year), Django( half year), Poco(half year)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Internship experience
 
-```markdown
-Syntax highlighted code block
+### Assistant Software Engineer, Microsoft    12/2021‐01/2022
+ - Investigated the use of computer language for back‐end development and the framework required for
+back‐end development;
+ - Studied and investigated the methods of implementing WeChat official account background function;
+ - Independently developed and implemented the automatic reply function and custom menu function of WeChat official account background
 
-# Header 1
-## Header 2
-### Header 3
+### Data Crawler Intern, Web2Asia 07/2021‐09/2021
+ - Assisted the development team in creating test data for testing
+ - Operated process to grab data from target (Phone Apps)
+ - Did data analyzing using AirtestIDE, pycharm, Navicat, MySQL and generated reports
+ - Helped the operations team to monitor a server status, and store the monitor data to the database
+ - Created processes for automation. The process will get data from target automatically and periodically repeat
+ - Independently developed a mobile program that could be entered through mobile homepage by automatically identifying WeChat, recognizing the basic information of each contact; enabled it to enter the WeChat applet to automatically search the required articles and store all the acquired information in the database
 
-- Bulleted
-- List
+### Interests
 
-1. Numbered
-2. List
+Design (having more than 3‐year magazine and poster design experiences), Photographing
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Re-Hu/Re-Hu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
